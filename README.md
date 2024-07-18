@@ -1,26 +1,20 @@
-Project Summary: US Clinical Provider Referral Analysis (2009)
-Project Title: Capstone Project: US Clinical Provider Referral Analysis (2009)
+Project Title: Data Analysis Project: Understanding the Current Situation of the Canada Labor Market (2024)
 
-Technologies Used: Python, SQL, Tableau, sklearn
+Technologies Used: SQL, Tableau
 
 Project Description:
-This Capstone project focused on analyzing clinical provider referrals in the United States for the year 2009. The project involved multiple stages, including data cleaning, data exploration, regression analysis, and data visualization. Key activities included:
+This data analysis project aimed to understand the current situation of the Canada labor market in the year 2024. The project involved key stages including data cleaning, data exploration, and data visualization. Key activities included:
 
 Data Cleaning:
 
-Utilized Python regular expressions to clean and preprocess the raw data.
-Addressed issues such as missing values, data inconsistencies, and formatting errors to ensure data quality and accuracy.
+Utilized SQL to clean and preprocess the raw labor market data.
+Addressed issues such as missing values, data inconsistencies, and formatting errors to ensure data quality and reliability.
 Data Exploration:
 
-Conducted extensive data exploration using SQL.
-Analyzed the data to uncover patterns, trends, and relationships within the clinical provider referrals dataset.
-Regression Analysis:
-
-Applied regression analysis techniques using Python's sklearn library.
-Developed predictive models to identify key factors influencing clinical provider referrals.
-Evaluated model performance using various metrics to ensure reliability and accuracy.
+Conducted comprehensive data exploration using SQL.
+Analyzed various aspects of the labor market, including employment rates, industry trends, demographic factors, and geographic distribution.
 Data Visualization:
 
 Created insightful visualizations using Tableau to represent the findings.
-Developed dashboards and charts that effectively communicated the results of the analysis.
-Highlighted significant trends and insights to support data-driven decision-making.
+Developed dashboards and interactive charts that effectively communicated the results of the analysis.
+Highlighted significant trends, patterns, and insights to support data-driven decision-making.
